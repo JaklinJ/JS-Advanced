@@ -1,0 +1,11 @@
+body {
+    font-family: "Helvetica", sans-serif;
+}
+table, td, tr {
+border: 1px solid;
+border-collapse: collapse;
+text-align: end;
+}
+thead {
+    font-weight: bold;
+}
