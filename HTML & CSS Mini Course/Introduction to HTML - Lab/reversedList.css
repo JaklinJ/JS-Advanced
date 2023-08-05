@@ -1,0 +1,19 @@
+body {
+    font-family: "Helvetica", sans-serif;
+}
+body main {
+    background: #E6E5E5;
+    width: 30%;
+    padding: 50px 30px; 
+    margin: auto;
+
+}
+body main h3 {
+    text-align: center;
+    color: #234465;
+
+}
+body main ol li{
+    border-bottom: 1px solid;
+    color: #353639;
+}
