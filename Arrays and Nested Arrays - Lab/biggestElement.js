@@ -1,6 +1,6 @@
 function biggestElement(matrix) {
 
-    let biggestNum = 0;
+    let biggestNum = -Infinity;
 
     matrix.forEach(row => {
         row.forEach(num => {
